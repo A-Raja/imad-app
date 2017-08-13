@@ -1,15 +1,15 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    background-color: violet;
+    margin-top: 10px;
 }
 
 .center {
-    text-align: center;
+    text-align: centre;
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 100%;
 }
 
 .bold {
@@ -17,6 +17,6 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 500px;
 }
 
